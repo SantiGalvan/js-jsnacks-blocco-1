@@ -21,4 +21,5 @@ Sì, lo sappiamo che esiste la funzione includes() ma noi non la vogliamo utiliz
 - 3 Creo un for per controllare tutti i valori dell'array
 - 4 Controllo che all'interno dell'array ci sia il valore indicato
 - 5 Creo il messaggio di conferma
-- 6 Se l'elemento non c'e all'interno creo il messaggio di errore
+- 6 Se l'elemento è all'interno creo il messaggio di conferma
+- 7 Stampo in console
