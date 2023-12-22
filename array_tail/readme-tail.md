@@ -27,4 +27,6 @@ Suggerimenti:
 ### Bonus
 - 13 Creo un altro prompt e chiedo all'utente quanti elementi dell'array dovremo stampare
 - 14 Controllo che l'utente abbia riposto al secondo prompt con un numero minore del primo
-- 15 Stampo gli elementi
+- 15 Se il valore è minore del precedente creo un alert
+- 16 Sostituisco il 5 (numero definito da me) con il risultato del secondo prompt
+- 17 Stampo gli elementi in console
